@@ -1,0 +1,9 @@
+fd
+go
+lazygit
+newsboat
+ripgrep
+fzf
+hugo
+nvm
+neovim
