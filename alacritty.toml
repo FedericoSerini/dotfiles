@@ -1,0 +1,9 @@
+[general]
+import = ["~/.config/alacritty/themes/themes/autumn.toml"]
+
+[window]
+decorations = "none"
+
+[font]
+size = 14
+normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
