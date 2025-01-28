@@ -9,3 +9,4 @@ nvm
 neovim
 helm
 k9s
+python
