@@ -11,3 +11,5 @@ helm
 k9s
 python
 amethyst
+sops
+age
