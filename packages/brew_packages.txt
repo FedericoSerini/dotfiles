@@ -13,3 +13,5 @@ python
 amethyst
 sops
 age
+cloudflared
+mysql-client
