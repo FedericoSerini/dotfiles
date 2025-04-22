@@ -16,3 +16,4 @@ age
 cloudflared
 mysql-client
 wireguard-tools
+mongosh
